@@ -1,0 +1,21 @@
+{
+  "name": "progressivebudge",
+  "version": "1.0.0",
+  "description": "progessive budget",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadalac27/ProgressiveBudge.git"
+  },
+  "author": "Chad Coleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadalac27/ProgressiveBudge/issues"
+  },
+  "homepage": "https://github.com/chadalac27/ProgressiveBudge#readme",
+  "keywords": []
+}
